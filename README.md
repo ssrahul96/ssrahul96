@@ -3,7 +3,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Java         1 hr            █████████████████▒░░░░░░░   69.58 % 
+Git Config   8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+Other        7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+TypeScript   7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Roff         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
 <!--END_SECTION:waka-->
 
