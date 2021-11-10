@@ -3,7 +3,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-
+YAML         45 mins         █████████▒░░░░░░░░░░░░░░░   37.00 % 
+Properties   38 mins         ████████░░░░░░░░░░░░░░░░░   31.64 % 
+Java         23 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.76 % 
+JavaScript   11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+PowerShell   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 ```
 <!--END_SECTION:waka-->
 
