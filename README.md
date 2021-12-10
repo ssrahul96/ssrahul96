@@ -3,9 +3,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-PowerShell   36 mins         █████████████░░░░░░░░░░░░   51.35 % 
-JSON         32 mins         ███████████▒░░░░░░░░░░░░░   45.10 % 
-Properties   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+JSON         38 mins         ████████████▒░░░░░░░░░░░░   49.55 % 
+PowerShell   36 mins         ███████████▓░░░░░░░░░░░░░   47.20 % 
+Properties   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 ```
 <!--END_SECTION:waka-->
 
