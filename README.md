@@ -3,6 +3,8 @@
 
 <!--START_SECTION:waka-->
 ```text
+Total: 2 hrs 26 mins
+
 JavaScript   1 hr 6 mins     ███████████░░░░░░░░░░░░░░   44.40 % 
 TypeScript   1 hr            ██████████░░░░░░░░░░░░░░░   40.33 % 
 Terraform    9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
