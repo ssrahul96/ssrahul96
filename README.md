@@ -3,13 +3,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 2 hrs 26 mins
+Total: 2 hrs 43 mins
 
-JavaScript   1 hr 6 mins     ███████████░░░░░░░░░░░░░░   44.40 % 
-TypeScript   1 hr            ██████████░░░░░░░░░░░░░░░   40.33 % 
-Terraform    9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-CSV          5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-Properties   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+TypeScript   1 hr            █████████░░░░░░░░░░░░░░░░   36.20 % 
+Java         50 mins         ███████▓░░░░░░░░░░░░░░░░░   30.71 % 
+Terraform    23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+SQL          11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+Text         11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
 ```
 <!--END_SECTION:waka-->
 
