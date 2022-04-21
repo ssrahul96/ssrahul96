@@ -4,12 +4,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java             4 hrs 14 mins   ███████████▓░░░░░░░░░░░░░   46.35 %
-JavaScript       2 hrs 46 mins   ███████▓░░░░░░░░░░░░░░░░░   30.25 %
-Text             1 hr 24 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.39 %
-Properties       35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
-GitIgnore file   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-Other            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Java             3 hrs 43 mins   ██████████▒░░░░░░░░░░░░░░   40.82 %
+JavaScript       2 hrs 52 mins   ████████░░░░░░░░░░░░░░░░░   31.50 %
+Other            1 hr 51 mins    █████░░░░░░░░░░░░░░░░░░░░   20.25 %
 ```
 
 <!--END_SECTION:waka-->
