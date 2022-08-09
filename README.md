@@ -4,8 +4,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-JSON         7 hrs 3 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.77 %
-Other        5 hrs 5 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.87 %
+JSON           7 hrs 3 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.01 %
+Terraform      4 hrs 30 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.97 %
+Properties     3 hrs 53 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 %
+Other          2 hrs 48 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
 ```
 
 <!--END_SECTION:waka-->
