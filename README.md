@@ -4,10 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-JSON           7 hrs 3 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.01 %
-Terraform      4 hrs 30 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.97 %
-Properties     3 hrs 53 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 %
-Other          2 hrs 48 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
+Terraform      2 hrs 49 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.92 %
+Properties     2 hrs 47 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.58 %
+YAML           1 hr 30 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
+Markdown       51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
+Other          38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
 ```
 
 <!--END_SECTION:waka-->
