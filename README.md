@@ -4,9 +4,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Terraform    2 hrs 33 mins   ███████▓░░░░░░░░░░░░░░░░░   31.15 %
-Properties   2 hrs 2 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.02 %
-Other        1 hr            ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
+Properties   1 hr 44 mins    ██████████████████████░░░   88.28 %
+Other        4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
 ```
 
 <!--END_SECTION:waka-->
