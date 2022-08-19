@@ -4,8 +4,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Properties   1 hr 44 mins    ██████████████████████░░░   88.28 %
-Other        4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+Java         19 mins         ██████████▓░░░░░░░░░░░░░░   42.05 %
+TypeScript   13 mins         ███████░░░░░░░░░░░░░░░░░░   28.43 %
+Other        4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 %
 ```
 
 <!--END_SECTION:waka-->
