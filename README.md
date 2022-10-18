@@ -4,8 +4,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-YAML         13 hrs 29 mins  ██████████████▓░░░░░░░░░░   58.04 %
-Other        2 hrs 35 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.15 %
+YAML         15 hrs 15 mins  ██████████████░░░░░░░░░░░   55.59 %
+Terraform    3 hrs 17 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.02 %
+Other        2 hrs 35 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
 ```
 
 <!--END_SECTION:waka-->
