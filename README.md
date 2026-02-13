@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer & DevOps</h3>
 <h4 align="center"> Driven by a DevOps mindset, I partner with cross-functional teams to design resilient architectures, automate end-to-end workflows, and deliver consistently high-performing applications at scale. </h4>
 
-- 🔭 I’m currently working on **Wayfair**
+- 🔭 I’m currently working at **Wayfair**
 
 - 🏙️ I'm currently living in **Bengaluru,India**
 
